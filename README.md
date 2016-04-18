@@ -6,3 +6,5 @@ Service Web et BO de Patrouille NFC
 <li>Vérifier la configuration de la base de données dans)</li>
 <li>ServiceNFC\application\config\database.php)</li>
 <li>Lancer l’application)</li>
+<h2>Remarque</h2>
+<p>Veuillez utiliser ce fichier comme bdd pour une installation locale : https://github.com/naokibeats/ServiceNFC/blob/master/bdd/Policenationale.sql</p>
